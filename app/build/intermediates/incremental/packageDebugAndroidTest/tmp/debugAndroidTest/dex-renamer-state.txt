@@ -1,0 +1,7 @@
+#Mon Jun 03 20:23:23 CST 2024
+base.1=E\:\\android\\Mnist_Android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\classes.dex
+path.1=classes.dex
+base.0=E\:\\android\\Mnist_Android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
